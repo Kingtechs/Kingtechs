@@ -11,4 +11,4 @@ Feel free to reach out through any of the following:
 
 - 💼 **LinkedIn:** [linkedin.com/in/oscarreyesumanzor](https://linkedin.com/in/oscarreyesumanzor)
 - 💻 **GitHub:** [github.com/Kingtechs](https://github.com/Kingtechs)
-- 📧 **Email:** <oscarreyesumanzor@gmail.com>
+- 📧 **Email:** <okings27@gmail.com>
