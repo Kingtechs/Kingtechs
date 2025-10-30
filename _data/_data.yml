@@ -9,7 +9,6 @@ baseurl: "/Kingtechs"   # same as in _config.yml
 menu:
   - { name: "About", url: "/about" }
   - { name: "Projects", url: "/projects" }
-  - { name: "Posts", url: "/" }
   - { name: "Contact", url: "/contact" }
 
 # Social icons (show only what you fill)
