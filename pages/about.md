@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-**Oscar “JJ” Reyes Umanzor** — IT professional focused on cybersecurity, networking, and data systems.  
+**Oscar Reyes Umanzor** — IT professional focused on cybersecurity, networking, and data systems.  
 - CompTIA **Network+**, **Security+**  
 - Interests: hardening, VLANs, ZFS, SQL, dashboards (Power BI)
 
