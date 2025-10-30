@@ -1,14 +1,11 @@
 title: "Oscar “JJ” Reyes Umanzor"
 description: "Cybersecurity • Networking • Data Systems"
-url: "https://kingtechs.github.io"
-baseurl: "/Kingtechs"   # if this is a project site; remove if your repo is username.github.io
+url: "https://kingtechs.github.io"   # your GitHub Pages domain
+baseurl: "/Kingtechs"                # because your site URL has /Kingtechs/
+
 remote_theme: LeNPaul/Millennial
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-
-# Optional (nice SEO & feed)
-feed:
-  path: feed.xml
