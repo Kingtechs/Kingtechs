@@ -1,0 +1,23 @@
+title: "KingTechs"
+tagline: "Secure systems • Practical solutions"
+email: ""
+description: "IT professional with CompTIA Network+ and Security+. Focused on cybersecurity, networking, and data systems."
+url: "https://kingtechs.github.io"
+baseurl: "/Kingtechs"   # same as in _config.yml
+
+# Navigation (edit labels/paths to taste)
+menu:
+  - { name: "About", url: "/about" }
+  - { name: "Projects", url: "/projects" }
+  - { name: "Posts", url: "/" }
+  - { name: "Contact", url: "/contact" }
+
+# Social icons (show only what you fill)
+social:
+  github: "Kingtechs"
+  linkedin: ""      # e.g., "oscar-reyes-umanzor"
+  twitter: ""
+  email: ""
+
+# Footer
+footer_text: "© #{Time.now.year} Oscar “JJ” Reyes Umanzor"
