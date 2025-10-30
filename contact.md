@@ -10,5 +10,5 @@ I’m always open to connecting with other IT and cybersecurity professionals, s
 Feel free to reach out through any of the following:
 
 - 💼 **LinkedIn:** [linkedin.com/in/oscarreyesumanzor](https://linkedin.com/in/oscarreyesumanzor)
-- 💻 **GitHub:** [github.com/Kingtechs]([https://github.com/Kingtechs](https://kingtechs.github.io/Kingtechs))
+- 💻 **GitHub:** [github.com/Kingtechs](https://kingtechs.github.io/Kingtechs))
 - 📧 **Email:** <okings27@gmail.com>
