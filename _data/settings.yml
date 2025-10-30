@@ -7,7 +7,7 @@ baseurl: "/Kingtechs"
 menu:
   - { name: "About",    url: "/about" }
   - { name: "Projects", url: "/projects" }
-  - { name: "Posts",    url: "/" }
+  - { name: "Posts",    url: "/_posts" }
   - { name: "Contact",  url: "/contact" }
 
 social:
