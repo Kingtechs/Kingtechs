@@ -12,4 +12,4 @@ menu:
 social:
   github: "Kingtechs"
 
-footer_text: "© #{Time.now.year} Oscar “JJ” Reyes Umanzor"
+footer_text: "© #{Time.now.year} Oscar Reyes Umanzor"
