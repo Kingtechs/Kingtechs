@@ -1,0 +1,16 @@
+title: "KingTechs"
+tagline: "Secure systems • Practical solutions"
+description: "IT pro with Network+ and Security+. Focus: cybersecurity, networking, data systems."
+url: "https://kingtechs.github.io"
+baseurl: "/Kingtechs"
+
+menu:
+  - { name: "About",    url: "/about" }
+  - { name: "Projects", url: "/projects" }
+  - { name: "Posts",    url: "/" }
+  - { name: "Contact",  url: "/contact" }
+
+social:
+  github: "Kingtechs"
+
+footer_text: "© #{Time.now.year} Oscar “JJ” Reyes Umanzor"
