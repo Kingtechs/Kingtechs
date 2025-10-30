@@ -1,0 +1,41 @@
+/* Always-dark version */
+html, body {
+  background: #0d1117;
+  color: #c9d1d9;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+/* Links */
+a { color: #58a6ff; }
+a:hover { color: #8ab4f8; }
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 { color: #e6edf3; }
+
+/* Content boxes, posts, etc. */
+.post, .page, .card, .highlight {
+  background: #0f141b;
+  border: 1px solid #30363d;
+  border-radius: 8px;
+  padding: 1em;
+}
+
+/* Quotes, code, misc */
+blockquote {
+  border-left: 4px solid #30363d;
+  color: #c9d1d9;
+  background: #0f141b;
+  padding: .5em 1em;
+  margin: 1em 0;
+}
+code, pre {
+  background: #0f141b;
+  color: #e6edf3;
+}
+hr { border-color: #30363d; }
+
+/* Header/Footer */
+.site-header, .site-footer {
+  background: #0d1117;
+  border-color: #30363d;
+}
