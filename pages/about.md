@@ -26,7 +26,7 @@ My background in education and technology leadership has taught me to approach e
 
 ## Current Goals
 
-- Preparing for **CompTIA CySA+**
+- Preparing for CompTIA CySA+
 - Expanding my home lab for advanced security testing  
 - Learning Python scripting for security automation  
 - Contributing to open-source and cybersecurity communities  
