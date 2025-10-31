@@ -18,7 +18,7 @@ Feel free to reach out through any of the following:
 
 <div style="max-width:720px;margin:0 auto;">
 
-    <p>I’m open to opportunities and collaborations in cybersecurity, networking, and data systems.</p>
+    <p>Have a question or want to connect? Drop me a message anytime.</p>
   </div>
 
   <!-- Contact Form (Formspree) -->
