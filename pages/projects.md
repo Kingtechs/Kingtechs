@@ -58,7 +58,7 @@ Responsive GitHub Pages site built with HTML, CSS, and JavaScript, integrating c
 ---
 
 ## Packet Tracer Labs
-**Cisco Packet Tracer** projects featuring routing, VLAN segmentation, DHCP, and NAT. Includes detailed network documentation and topology diagrams.
+**Cisco Packet Tracer** projects featuring routing, VLAN segmentation, DHCP, and NAT. Detailed network documentation and topology diagrams.
 
 <p>
   <img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
