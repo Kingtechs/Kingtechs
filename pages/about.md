@@ -17,7 +17,7 @@ My background in education and technology leadership has taught me to approach e
 
 - **Cybersecurity:** Threat mitigation, access control, vulnerability assessment, and system hardening
 - **Networking:** VLANs, DHCP, DNS, routing, VPN configuration, and secure remote access 
-- **Systems Administration:** Windows, Linux, and virtualization (Proxmox)  
+- **Systems Administration:** Windows, Linux, and virtualization  
 - **Data & Analysis:** Data cleaning, SQL querying, ETL workflows, Power BI dashboard development, data visualization, and trend analysis
 - **Web Development:** Front-end design with HTML, CSS, JavaScript; responsive layouts; GitHub Pages and deployment; ASP.NET and C# fundamentals
 - **Tools & Platforms:** Wireshark, pfSense, MySQL, Docker, Tailscale, PowerShell, and Visual Studio Code
