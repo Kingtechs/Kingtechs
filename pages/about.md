@@ -30,5 +30,4 @@ My background in **education and technology leadership** has taught me to approa
 - Contributing to open-source and cybersecurity communities  
 - Preparing for **CompTIA CySA+**
 
----
 
