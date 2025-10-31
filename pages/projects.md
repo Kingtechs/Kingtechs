@@ -23,7 +23,7 @@ Homelab built with Proxmox, VLANs, pfSense, and Tailscale for enterprise style t
 ---
 
 ## Data Professional Survey Metrics Dashboard
-SQL → Power BI pipeline that tracks responses from a data professional survey, focusing on visualization, DAX metrics, and data cleaning.
+SQL Power BI pipeline that tracks responses from a data professional survey, focusing on visualization, DAX metrics, and data cleaning.
 
 ![Power BI Dashboard](https://raw.githubusercontent.com/Kingtechs/Kingtechs/main/assets/images/PowerBI%20workers%20survey%20.jpg)
 
