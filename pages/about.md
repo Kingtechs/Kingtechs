@@ -6,7 +6,7 @@ permalink: /about/
 
 #  Hello, I'm Oscar Reyes Umanzor
 
-I’m an IT professional specializing in **cybersecurity, networking, and data systems**.  
+I’m an IT professional specializing in cybersecurity, networking, Web and data systems.  
 I hold CompTIA Network+ and Security+ certifications and have hands on experience building and securing networked environments, troubleshooting systems, and managing IT infrastructure.  
 
 My background in **education and technology leadership** has taught me to approach every technical challenge with precision, patience, and a focus on real-world problem-solving. I enjoy designing secure systems, analyzing data for insights, and improving processes through automation and efficient tools.
