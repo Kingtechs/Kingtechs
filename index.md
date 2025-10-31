@@ -23,29 +23,28 @@ My goal is to continue advancing in the technology field by applying my skills i
 
 ## Tools
 
-<h3>Network</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-DC143C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-5B5B5B?style=for-the-badge&logoColor=white" />
-</p>
+### Network
+<div>
+   | <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   | <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+   | <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+   |
+</div>
 
-<h3>Endpoint</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Velociraptor-4B0082?style=for-the-badge&logoColor=white" />
-</p>
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-<h3>SIEM</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-</p>
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-<h3>Certifications</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white" />
-</p>
-
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
