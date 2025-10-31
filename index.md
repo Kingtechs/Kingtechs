@@ -4,7 +4,7 @@ title: "Welcome to My Portfolio"
 ---
 I am an IT professional specializing in cybersecurity, systems administration, and data analytics. I hold both CompTIA Network+ and Security+ certifications, demonstrating my ability to manage, secure, and optimize networked environments. My experience includes hardware and software troubleshooting, network configuration, and implementing security best practices to protect data and infrastructure. I have a profound interest in technology and a dedication to solving complex problems Anything that runs on batteries i would find out how it operates.
 
-![My Image]([/assets/images/newid.jpg](https://raw.githubusercontent.com/Kingtechs/Kingtechs/f7439f783e67d93bc36ff055922395a9515ade25/newid.jpg))
+![My Image](https://github.com/Kingtechs/Kingtechs/blob/main/newid.jpg?raw=true)
 
 
 
