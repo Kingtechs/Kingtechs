@@ -27,8 +27,8 @@ My background in **education and technology leadership** has taught me to approa
 ## Current Goals
 
 - Preparing for **CompTIA CySA+**
-- Expanding my **home lab ** for advanced security testing  
-- Learning **Python scripting** for security automation  
+- Expanding my home lab for advanced security testing  
+- Learning Python scripting for security automation  
 - Contributing to open-source and cybersecurity communities  
 - Build and maintain a personal cloud lab for testing hybrid deployments.
 - Master data automation and predictive analytics using Python, Power BI, and cloud-based machine learning tools.
