@@ -12,14 +12,14 @@ My goal is to continue advancing in the technology field by applying my skills i
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Associated Project |
+|-----------------------------------------------|--------------------|
+| Network Configuration and VLAN Management     | [KingTech Virtual Lab](https://github.com/Kingtechs/Kingtechs) |
+| Firewall Setup and Intrusion Monitoring (pfSense) | [KingTech Virtual Lab](https://github.com/Kingtechs/Kingtechs) |
+| Data Analysis and Dashboard Visualization (SQL & Power BI) | [School Tech Metrics Dashboard](https://github.com/Kingtechs/Data-Dashboard) |
+| Web Development with HTML, CSS, and JavaScript | [KingTech Portfolio Site](https://kingtechs.github.io/Kingtechs/) |
+| Systems Virtualization and Administration (Proxmox) | [KingTech Home Server Project](https://github.com/Kingtechs/Kingtechs) |
+| Cloud Deployment and Remote Access Configuration (AWS & Tailscale) | [Cloud Lab Expansion Project](https://github.com/Kingtechs/Kingtechs) |
 
 ## Tools
 
