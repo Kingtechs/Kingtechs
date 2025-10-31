@@ -3,7 +3,7 @@ layout: page
 title: "Contact"
 permalink: /contact/
 ---
-I’m always open to connecting with other IT and cybersecurity professionals, sharing ideas, or discussing new opportunities.  
+I’m always open to connecting with other IT professionals, sharing ideas, or discussing new opportunities.  
 Feel free to reach out through any of the following:
 
 <a href="https://linkedin.com/in/oscar-reyes-311a6336b/">
