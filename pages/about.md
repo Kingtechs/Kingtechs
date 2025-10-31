@@ -27,7 +27,7 @@ My background in **education and technology leadership** has taught me to approa
 
 ---
 
-## 🚀 Current Goals
+## Current Goals
 
 - Expanding my **home lab ** for advanced security testing  
 - Learning **Python scripting** for security automation  
