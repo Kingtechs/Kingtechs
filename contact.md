@@ -18,9 +18,6 @@ Feel free to reach out through any of the following:
 
 <div style="max-width:720px;margin:0 auto;">
 
-  <div style="text-align:center;margin-bottom:16px;">
-    <img src="{{ '/newid.jpg' | relative_url }}" alt="Oscar Reyes Umanzor" width="140" style="border-radius:50%; margin-bottom:12px;">
-    <h1>Get in Touch</h1>
     <p>I’m open to opportunities and collaborations in cybersecurity, networking, and data systems.</p>
   </div>
 
