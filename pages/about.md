@@ -8,4 +8,3 @@ permalink: /about/
 - CompTIA **Network+**, **Security+**  
 - Interests: hardening, VLANs, ZFS, SQL, dashboards (Power BI)
 
-This site is built with the **Millennial** Jekyll theme.
