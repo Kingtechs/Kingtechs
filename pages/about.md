@@ -4,10 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-<div style="text-align:center;">
-  <img src="{{ '/newid.jpg' | relative_url }}" alt="Oscar Reyes Umanzor" width="160" style="border-radius:50%; margin-bottom:10px;">
-</div>
-
 #  Hello, I'm Oscar Reyes Umanzor
 
 I’m an IT professional specializing in **cybersecurity, networking, and data systems**.  
