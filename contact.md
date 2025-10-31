@@ -15,7 +15,7 @@ Feel free to reach out through any of the following:
 <a href="mailto:okings27@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
--------------
+
 <div style="max-width:720px;margin:0 auto;">
 
   <div style="text-align:center;margin-bottom:16px;">
