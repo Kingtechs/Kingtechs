@@ -4,9 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-### Home Lab “KingTech”
-Proxmox + VLANs + ZFS; isolated test networks; hardening notes.
-
 ### Security+ Notes
 Condensed exam notes, ports, and PBQ practice outlines.
 
@@ -18,7 +15,7 @@ Below are selected projects across cybersecurity, networking, data, web, and clo
 <!-- Project grid -->
 <div class="projects-grid">
 
-  <!-- KingTech Virtual Lab -->
+  <!-- Virtual Lab -->
   <div class="project-card">
     <img src="{{ site.baseurl }}/assets/images/projects/kingtech-lab.jpg" alt="KingTech Virtual Lab" />
     <h3>Proxmox Virtual Lab</h3>
@@ -35,10 +32,9 @@ Below are selected projects across cybersecurity, networking, data, web, and clo
     </p>
   </div>
 
-  <!-- School Tech Metrics Dashboard -->
-  <div class="project-card">
-    <img src="{{ site.baseurl }}/assets/images/projects/tech-metrics.jpg" alt="School Tech Metrics Dashboard" />
-    <h3>School Tech Metrics Dashboard</h3>
+  <!-- Tech survey Metrics Dashboard -->
+https://github.com/Kingtechs/Kingtechs/blob/e2ae12ba2fd5f5ef2702dc8d86990562f620bb0f/assets/images/PowerBI%20workers%20survey%20.jpg
+    <h3>Tech survey Metrics Dashboard</h3>
     <p>SQL → Power BI pipeline that tracks device uptime, network health, and incident trends. Focus on data cleaning and DAX.</p>
     <div class="badges">
       <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
