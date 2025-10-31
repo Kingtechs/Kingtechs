@@ -10,15 +10,14 @@ I am an IT professional specializing in cybersecurity, systems administration, a
 My goal is to continue advancing in the technology field by applying my skills in system security, network management, and data analysis to support organizational growth and resilience. I’m passionate about solving complex technical problems, strengthening system defenses, and contributing to secure, efficient IT operations.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
-| Network Configuration and VLAN Management     | [KingTech Virtual Lab](https://github.com/Kingtechs/Kingtechs) |
-| Firewall Setup and Intrusion Monitoring (pfSense) | [KingTech Virtual Lab](https://github.com/Kingtechs/Kingtechs) |
-| Data Analysis and Dashboard Visualization (SQL & Power BI) | [School Tech Metrics Dashboard](https://github.com/Kingtechs/Data-Dashboard) |
-| Web Development with HTML, CSS, and JavaScript | [KingTech Portfolio Site](https://kingtechs.github.io/Kingtechs/) |
-| Systems Virtualization and Administration (Proxmox) | [KingTech Home Server Project](https://github.com/Kingtechs/Kingtechs) |
+| Network Configuration and VLAN Management     | [Virtual Lab](https://github.com/Kingtechs/Kingtechs) |
+| Firewall Setup and Intrusion Monitoring (pfSense) | [Virtual Lab](https://github.com/Kingtechs/Kingtechs) |
+| Data Analysis and Dashboard Visualization (SQL & Power BI) | [Tech Survey Metrics Dashboard](https://github.com/Kingtechs/Data-Dashboard) |
+| Web Development with HTML, CSS, and JavaScript | [Portfolio Site](https://kingtechs.github.io/Kingtechs/) |
+| Systems Virtualization and Administration (Proxmox) | [Home Server Project](https://github.com/Kingtechs/Kingtechs) |
 | Cloud Deployment and Remote Access Configuration (AWS & Tailscale) | [Cloud Lab Expansion Project](https://github.com/Kingtechs/Kingtechs) |
 
 ## Tools
